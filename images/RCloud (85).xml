@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>train</folder>
+<filename>RCloud (85).png</filename>
+<path>C:\Users\SWBee29932\Desktop\driving-object-detection-master\images\train\RCloud (85).png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>816</xmin>
+        <ymin>200</ymin>
+        <xmax>857</xmax>
+        <ymax>307</ymax>
+    </bndbox>
+</object>
+</annotation>
